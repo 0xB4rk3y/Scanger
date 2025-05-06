@@ -28,5 +28,5 @@ This file lists the libraries and their versions required for the project to wor
 
 
 ## Here are some screenshots of Scanger
-https://github.com/0xB4rk3y/Scanger/assets/105565547/2f3b92af-bb6b-4fe1-9cd0-7639732aec61
-https://github.com/0xB4rk3y/Scanger/assets/105565547/c5ebbe86-2f55-48e3-90eb-d0a4ac43fed3
+![.](https://github.com/0xB4rk3y/Scanger/assets/105565547/2f3b92af-bb6b-4fe1-9cd0-7639732aec61)
+![.](https://github.com/0xB4rk3y/Scanger/assets/105565547/c5ebbe86-2f55-48e3-90eb-d0a4ac43fed3)
